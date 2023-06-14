@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "logo": "etulogo",
+    "url": "etu",
+    "title": "Erzurum Teknik Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "2",
+    "url": "itu",
+    "logo": "itulogo",
+    "title": "Istanbul Teknik Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "3",
+    "url": "omu",
+    "logo": "omulogo",
+    "title": "Ondokuz Mayis Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "4",
+    "url": "etu",
+    "logo": "saulogo",
+    "title": "Samsun Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "5",
+    "url": "ata",
+    "logo": "atalogo",
+    "title": "Ataturk Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "6",
+    "url": "katu",
+    "logo": "katulogo",
+    "title": "Karadeniz Teknik Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "7",
+    "url": "mau",
+    "logo": "maulogo",
+    "title": "Marmara Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  },
+  {
+    "id": "8",
+    "url": "odtu",
+    "logo": "odtulogo",
+    "title": "Orta Dogu Teknik Universitesi",
+    "introduction": "lorem ipsum dot silir",
+    "instagram": "instagram.com/nhtzmn",
+    "twitter": "twitter.com/iceweaseleth",
+    "linkedin": "linkedin.com",
+    "website": "erzurum.edu.tr"
+  }
+]
